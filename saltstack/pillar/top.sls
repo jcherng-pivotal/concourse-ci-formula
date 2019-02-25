@@ -3,3 +3,4 @@ base:
     - vault
     - minio
     - concourse
+    - docker-registry

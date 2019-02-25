@@ -8,3 +8,4 @@ base:
     - concourse-ci.web_keys
     - concourse-ci.web
     - concourse-ci.worker
+    - docker.containers

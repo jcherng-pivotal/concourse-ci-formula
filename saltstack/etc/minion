@@ -7,6 +7,8 @@ file_roots:
     - /vagrant/saltstack/salt
     # The base for the concourse-ci formula
     - /vagrant
+    # The base for docker formula
+    - /vagrant/formulas/docker-formula
 
 ## Where the pillar data is located
 pillar_roots:
